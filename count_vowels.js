@@ -1,5 +1,7 @@
 const text = "A quick brown fox jumps over the lazy dog"
 
+    // method 1
+
     let vowels = 0
     const sentence = text.toLowerCase()
 
