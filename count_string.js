@@ -1,6 +1,6 @@
 const text = "A quick brown fox jumps over the lazy dog"
 
-const countCharacter = (text) =>{
+
     let count = 0
     const length = text.length
 
@@ -8,6 +8,5 @@ const countCharacter = (text) =>{
         count = i
     }
     console.log(count);
-}
 
-countCharacter(text)
+
